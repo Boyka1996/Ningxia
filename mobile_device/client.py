@@ -12,12 +12,10 @@ import requests
 
 file_path = "/home/chase/datasets/dogs-vs-cats/test1/1.jpg"
 start_time = time.time()
-with open('/home/chase/datasets/dogs-vs-cats/test1/1.jpg', 'rb') as f:
+with open(file_path, 'rb') as f:
     img = base64.b64encode(f.read()).decode()
-image = []
-image.append(img)
-res = {"image": image, "info": "test info"}
-# 访问服务
+image = [img]
+res = {"image": image, "info": "test info", "file_name": file_path.split("/")[-1]}
 res = requests.post("http://127.0.0.1:5005", data=res)
 print(res)
 print(time.time() - start_time)

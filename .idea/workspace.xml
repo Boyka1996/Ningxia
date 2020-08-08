@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c503b72b-50e5-40cb-8086-a1b6563b677c" name="Default Changelist" comment="" />
+    <list default="true" id="c503b72b-50e5-40cb-8086-a1b6563b677c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/mobile_device/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobile_device/5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_device/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_device/client.py" beforeDir="false" afterPath="$PROJECT_DIR$/mobile_device/client.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_device/server.py" beforeDir="false" afterPath="$PROJECT_DIR$/mobile_device/server.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,19 +24,51 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
   <component name="ProjectId" id="1fnYIy7rf1gNcvKASgXAv4Ui7oQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
   </component>
   <component name="RunManager" selected="Python.client">
+    <configuration name="ImageShow" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Ningxia" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="/usr/lib/python3/dist-packages/PIL" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="/usr/lib/python3/dist-packages/PIL/ImageShow.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="client" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Ningxia" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -76,6 +115,7 @@
       <list>
         <item itemvalue="Python.client" />
         <item itemvalue="Python.server" />
+        <item itemvalue="Python.ImageShow" />
       </list>
     </recent_temporary>
   </component>
@@ -102,44 +142,89 @@
       <option name="presentableId" value="Default" />
       <updated>1596855247484</updated>
     </task>
+    <task id="LOCAL-00001" summary="q">
+      <created>1596876454987</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1596876454987</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="q" />
+    <option name="LAST_COMMIT_MESSAGE" value="q" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="600" y="144" width="777" height="816" key="CommitChangelistDialog2" timestamp="1596876454890">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="600" y="144" width="777" height="816" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1596876454890" />
     <state x="765" y="296" width="447" height="513" key="FileChooserDialogImpl" timestamp="1596876436964">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="765" y="296" width="447" height="513" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1596876436964" />
-    <state width="1830" height="387" key="GridCell.Tab.0.bottom" timestamp="1596876384003">
+    <state width="1810" height="357" key="GridCell.Tab.0.bottom" timestamp="1596903042087">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1830" height="387" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1596876384003" />
-    <state width="1830" height="387" key="GridCell.Tab.0.center" timestamp="1596876384002">
+    <state width="1810" height="357" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1596903042087" />
+    <state width="1810" height="357" key="GridCell.Tab.0.center" timestamp="1596903042086">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1830" height="387" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1596876384002" />
-    <state width="1830" height="387" key="GridCell.Tab.0.left" timestamp="1596876384002">
+    <state width="1810" height="357" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1596903042086" />
+    <state width="1810" height="357" key="GridCell.Tab.0.left" timestamp="1596903042086">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1830" height="387" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1596876384002" />
-    <state width="1830" height="387" key="GridCell.Tab.0.right" timestamp="1596876384003">
+    <state width="1810" height="357" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1596903042086" />
+    <state width="1810" height="357" key="GridCell.Tab.0.right" timestamp="1596903042087">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1830" height="387" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1596876384003" />
-    <state width="1830" height="344" key="GridCell.Tab.1.bottom" timestamp="1596875641981">
+    <state width="1810" height="357" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1596903042087" />
+    <state width="1830" height="344" key="GridCell.Tab.1.bottom" timestamp="1596877313956">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1830" height="344" key="GridCell.Tab.1.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1596875641981" />
-    <state width="1830" height="344" key="GridCell.Tab.1.center" timestamp="1596875641981">
+    <state width="1830" height="344" key="GridCell.Tab.1.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1596877313956" />
+    <state width="1830" height="344" key="GridCell.Tab.1.center" timestamp="1596877313956">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1830" height="344" key="GridCell.Tab.1.center/67.27.1853.1053@67.27.1853.1053" timestamp="1596875641981" />
-    <state width="1830" height="344" key="GridCell.Tab.1.left" timestamp="1596875641981">
+    <state width="1830" height="344" key="GridCell.Tab.1.center/67.27.1853.1053@67.27.1853.1053" timestamp="1596877313956" />
+    <state width="1830" height="344" key="GridCell.Tab.1.left" timestamp="1596877313956">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1830" height="344" key="GridCell.Tab.1.left/67.27.1853.1053@67.27.1853.1053" timestamp="1596875641981" />
-    <state width="1830" height="344" key="GridCell.Tab.1.right" timestamp="1596875641981">
+    <state width="1830" height="344" key="GridCell.Tab.1.left/67.27.1853.1053@67.27.1853.1053" timestamp="1596877313956" />
+    <state width="1830" height="344" key="GridCell.Tab.1.right" timestamp="1596877313956">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1830" height="344" key="GridCell.Tab.1.right/67.27.1853.1053@67.27.1853.1053" timestamp="1596875641981" />
+    <state width="1830" height="344" key="GridCell.Tab.1.right/67.27.1853.1053@67.27.1853.1053" timestamp="1596877313956" />
+    <state x="482" y="187" key="SettingsEditor" timestamp="1596882166065">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="482" y="187" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1596882166065" />
+    <state x="588" y="277" width="800" height="551" key="Vcs.Push.Dialog.v2" timestamp="1596876467327">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="588" y="277" width="800" height="551" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1596876467327" />
+    <state x="656" y="257" width="672" height="678" key="search.everywhere.popup" timestamp="1596876780856">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="656" y="257" width="672" height="678" key="search.everywhere.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1596876780856" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/mobile_device/server.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/mobile_device/server.py</url>
+          <line>26</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
